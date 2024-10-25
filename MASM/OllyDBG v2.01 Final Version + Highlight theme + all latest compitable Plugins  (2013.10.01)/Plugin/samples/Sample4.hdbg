@@ -1,0 +1,10 @@
+[Swordfish]
+BeingDebugged=1
+NtGlobalFlags=1
+HeapFlags=1
+FindODWindowsBypass=1
+CheckRemoteDebuggerPresent=1
+GetClassInfo=0
+FindWindow=0
+GetTikCount=0
+NtQueryPerformanceCounter=0

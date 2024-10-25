@@ -1,0 +1,16 @@
+[Swordfish]
+BreakpointList1=user32.GetWindowTextW\user32.GetDlgItemTextW\user32.MessageBoxIndirectW\user32.MessageBoxTimeoutW\user32.SoftModalMessageBox\user32.CreateWindowExW\user32.ShowWindow\kernel32.CreateFileW\kernel32.OpenFile\kernel32.ReadFile\kernel32.WriteFile\
+BreakpointList2=kernel32.LoadLibraryW\kernel32.MoveFileW\kernel32.DeleteFileW\advapi32.RegOpenKeyExW\advapi32.RegCloseKey\advapi32.RegQueryValueExW\advapi32.RegSetValueExW\kernel32.CreateToolhelp32Snapshot\kernel32.Process32FirstW\kernel32.Module32FirstW\
+BreakpointList3=Kernel32.Toolhelp32ReadProcessMemory\kernel32.OpenProcess\kernel32.WriteProcessMemory\kernel32.ReadProcessMemory\kernel32.CreateProcessW\kernel32.VirtualProtectEx\advapi32.OpenSCManagerW\advapi32.OpenServiceW\advapi32.StartServiceW\
+BreakpointList4=advapi32.DeleteService\msvbvm60.ThunRTMain\msvbvm60.rtcMsgBox\msvbvm60.__vbaStrCmp\msvbvm60.__vbaStrComp\msvbvm60.__vbaFreeStr\msvbvm60.__vbaFileOpen\msvbvm60.__vbaInputFile\msvbvm60.__vbaWriteFile\msvbvm60.__vbaStrCompVar\
+BreakpointList5=msvbvm60.__vbaStrTextCmp\msvbvm60.__vbaFileSeek\msvbvm60.__vbaFileClose\msvbvm60.__vbaVarTstEq\
+BreakpointList6=
+BreakpointList7=
+BreakpointList8=
+BreakpointList9=
+BreakpointList10=
+BreakpointList11=
+BreakpointList12=
+BreakpointList13=
+BreakpointList14=
+BreakpointList15=ntdll.NtCreateFile\ntdll.NtClose\

@@ -1,0 +1,3 @@
+[Swordfish]
+BreakpointList1=user32.MessageBoxA\user32.MessageBoxW\
+BreakpointList2=kernel32.FatalAppExitA\kernel32._lcreat\kernel32._lopen\kernel32._hread\kernel32._hwrite\kernel32._lclose\

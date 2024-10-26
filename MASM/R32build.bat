@@ -26,5 +26,4 @@ rem 链接生成可执行文件
 link32 /subsystem:console /debug /LIBPATH:%MASM% %BASE_NAME%.obj
 echo result:
 %BASE_NAME%.exe
-
 pause
